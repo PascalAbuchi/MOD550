@@ -1,0 +1,19 @@
+
+Metadata for Combined Dataset:
+
+1. Dataset 1:
+   - Type: 2D Random Points
+   - Number of Points: 100
+   - X Range: (-10, 10)
+   - Y Range: (-10, 10)
+
+2. Dataset 2:
+   - Type: Function with Noise (y = 2x + 1 + noise)
+   - Number of Points: 50
+   - X Range: (-5, 5)
+   - Y Range: Derived from the function
+   - Noise Level: 1.5
+
+3. Combined Dataset:
+   - Total Points: 150
+   - Description: Appended Dataset 1 and Dataset 2
